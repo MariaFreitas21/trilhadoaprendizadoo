@@ -1,0 +1,20 @@
+body{
+    background-color:rgb(221, 194, 240);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+h1{
+    background-color: hsl(271, 57%, 66%);
+    color: hsla(310, 93%, 22%, 0.712);
+    text-align: center;
+}
+
+h2{
+    color:#b918acfd;
+    
+}
+
+h3{
+    color: hsl(310, 79%, 13%);
+}

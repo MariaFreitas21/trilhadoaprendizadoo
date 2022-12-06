@@ -1,0 +1,28 @@
+header{
+    position:relative;
+	color:white;
+	text-align: center;
+	background:linear-gradient(to bottom right, #4F4F4F, #000000);
+}
+h2{
+    background-color: #197486;
+    color: white;
+}
+
+body{
+    background-color: #9dbed6;
+    text-align: center;
+    font-family: Verdargb(155, 208, 229)eva, Tahoma, sans-serif;
+}
+
+h1{
+    font-size: 25px;
+    color: #eaf1f3;
+}
+ul{
+    background-color: rgb(195, 214, 241);
+}
+
+a{
+    color: #10454F;
+}

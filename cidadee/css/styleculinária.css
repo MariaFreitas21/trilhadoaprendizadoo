@@ -1,0 +1,10 @@
+header{
+    position:relative;
+	color:white;
+	text-align: center;
+	background:linear-gradient(to bottom right, #4F4F4F, #000000);
+}
+
+h2{
+    background-color: #706b6b;
+}

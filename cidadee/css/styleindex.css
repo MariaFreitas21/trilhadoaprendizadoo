@@ -1,0 +1,114 @@
+{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: white;
+    margin:0 auto;
+	width:95%;
+}
+
+header{
+    position:relative;
+	color:white;
+	text-align: center;
+	background:linear-gradient(to bottom right, #4F4F4F, #000000);
+}
+
+.logo{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.menu ul{
+	list-style-type: none;
+	margin:0;
+	padding:0;
+	font-weight:bold;
+	font-style:Arial;
+	font-size:16px;
+	overflow:hidden;
+	background-color:Black;
+    text-align: right;
+}
+.menu ul li{
+	display:inline;
+}
+.menu a{
+	text-align:center;
+	text-decoration:none;
+	color:White;
+	padding:15px 20px;
+}
+.menu li a:hover{
+	background-color:gray;
+}
+.container{
+	display:inline-block;
+	margin:0.5% 0px 0px 0px;
+	width:100%;
+}
+.imgdestaque{
+	width:80%;
+	display:inline-block;
+	margin:0px 0px 0px 0px;
+}
+.figuredestaque{
+	margin:0 auto;
+}
+.menuV{
+	background:linear-gradient(to bottom right, #4F4F4F, #000000);
+	font-weight:bold;
+	width:19.5%;
+	display:inline-block;
+	float:left;
+	margin:0px 0.5% 0px 0px;
+}
+.menuV li{
+	list-style-type: none;
+	padding:5px 10px;
+}
+.menuV a{
+	text-decoration:none;
+	color:white;
+}
+.menuV li a:hover{
+	background-color:gray;
+}
+figure img{
+	width:100%;
+}
+
+.painel h2{
+	text-align:center;
+	color:white;
+}
+.painel li{
+	display:inline-block;
+	width:40%;
+}
+.painel figcaption{
+	text-align:center;
+	color:white;
+}
+.painel a{
+	text-decoration:none;
+}
+footer{
+    bottom:0;
+	background:linear-gradient(to bottom right, #4F4F4F, #000000);
+	clear:both;
+	overflow:hidden;
+}
+footer ul{
+	position:relative;
+	list-style-type:none;
+	top:0;
+	right:0;
+	clear:both;
+	overflow:hidden;
+	padding:20px;
+}
+
+
